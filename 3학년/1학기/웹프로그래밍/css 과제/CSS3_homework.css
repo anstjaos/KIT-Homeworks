@@ -1,0 +1,57 @@
+	header {
+			color: yellow;
+			background-color: red;
+			font-size: 25px;
+			text-align: center;
+			margin-right: 70%;
+			text-shadow: 2px 2px black;
+		}
+
+		section{
+			margin-right: 70%;
+		}
+		#mainArticle {
+			padding-top :30px;
+			padding-left:  10px;
+			padding-bottom: 20px;
+			background-color: #ADFF2F;
+		}
+
+		#buttonArticle {
+			padding-top :20px;
+			padding-bottom: 20px;
+			background-color: green;
+			text-align: center;
+		}
+
+
+		#submit {
+			height:50px;
+			width:60px;
+			font-weight: 1000;
+			background-color: yellow;
+			color : blue;
+			border-style: dotted;
+			border-width: 3px;
+			border-color: red
+		}
+
+		#reset {
+			height:50px;
+			width: 60px;
+			font-weight: 1000;
+			background-color: yellow;
+			color : red;
+			border-style: dotted;
+			border-width: 3px;
+			border-color: red
+		}
+
+		footer{
+			margin-right: 70%;
+			background-color: blue;
+			color:#FFFFFF;
+			font-style: italic;
+			font-size:15px;
+			text-align: center;
+		}
