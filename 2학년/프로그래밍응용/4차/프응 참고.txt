@@ -1,0 +1,3 @@
+TaskManager 안에 멤버변수로 list들 넣기
+
+Menu에 잔고식권도 넣기
